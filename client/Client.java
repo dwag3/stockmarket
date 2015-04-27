@@ -22,7 +22,7 @@ public class Client {
 
 		m1.printStocks();
 
-		// Create 10 traders
+		// Create 14 traders with non-market orders
 		Trader trader1 = new Trader("Neda", 200000.00);
 		Trader trader2 = new Trader("Scott", 100000.00);
 		Trader trader3 = new Trader("Luke", 100000.00);
